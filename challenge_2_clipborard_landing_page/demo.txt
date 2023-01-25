@@ -1,0 +1,12 @@
+        <div class="2xl:flex 2xl:justify-center 2xl:items-center px-6">
+            
+            <div class="text-center">
+                <ul class="md:grid md:grid-cols-3 gap-x-15 pb-8">
+                    <li class="pb-6 font-semibold text-xl text-gray-500">FAQs</li>
+                    <li class="pb-6 font-semibold text-xl text-gray-500">Contact Us</li>
+                    <li class="pb-6 font-semibold text-xl text-gray-500">Privacy Policy</li>
+                    <li class="pb-6 font-semibold text-xl text-gray-500">Press Kit</li>
+                    <li class="pb-6 font-semibold text-xl text-gray-500">Install Guide</li>
+                </ul>
+            </div>
+        </div>
